@@ -3,8 +3,6 @@ Train an AI agent to master Kung Fu using the Asynchronous Advantage Actor-Criti
 ## 🚀
  Overview
 
-
-
 https://github.com/user-attachments/assets/944e7f59-f836-4ee1-9432-4cd79797eadb
 
 
