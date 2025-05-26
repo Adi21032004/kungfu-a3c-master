@@ -1,6 +1,12 @@
 # kungfu-a3c-master
 Train an AI agent to master Kung Fu using the Asynchronous Advantage Actor-Critic (A3C) algorithm in the classic Atari game using PyTorch and Gymnasium.
-## 🚀 Overview
+## 🚀
+ Overview
+
+
+
+https://github.com/user-attachments/assets/944e7f59-f836-4ee1-9432-4cd79797eadb
+
 
 This project implements the A3C reinforcement learning algorithm to train an AI agent to play the Atari game **Kung-Fu Master**. Multiple worker agents asynchronously interact with their own environments and update a shared global network to learn faster and more robustly.
 
